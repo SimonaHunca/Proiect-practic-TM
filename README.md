@@ -12,11 +12,11 @@
 </br>
 </br>
 
-## 1. Introduction
+## 1. <ins>Introduction<ins>
    ### 1.1 Project objective
    ### 1.2 Functionalities in scope
    ### 1.3 Functionalities and tests out of scope
-## 2. Test Process
+## 2. <ins>Test Process<ins>
    ### 2.1 Test Planning
    ### 2.2 Test Analysis
    ### 2.3 Test Design
@@ -24,7 +24,7 @@
    ### 2.5 Test Execute
    ### 2.6 Test Completion
    ### 2.7 Test Monitoring and Control
-## 3. Test Deliverables 
+## 3.<ins> Test Deliverables<ins> 
    ### 3.1 Test plan
    ### 3.2 Test conditions
    ### 3.3 Test cases
