@@ -20,3 +20,4 @@
 
 4. Fourth item
 
+Here are test cases link [TEst cases details](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(1).png)
