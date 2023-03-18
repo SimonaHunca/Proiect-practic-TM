@@ -33,5 +33,10 @@
    ### 3.6 Test case results
    ### 3.7 Bugs report
    ### 3.8 Test completion report
+</br>
+</br>
+   
+## 1.Introduction
+   This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, ADMIN Module.
 
 
