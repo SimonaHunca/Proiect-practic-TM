@@ -1,4 +1,4 @@
-# OrangeHRM Project
+# **OrangeHRM Project**
 # *TEST PLAN*
 </br>
 
@@ -13,6 +13,25 @@
 </br>
 
 ## 1. Introduction
+   ### 1.1 Project objective
+   ### 1.2 Functionalities in scope
+   ### 1.3 Functionalities and tests out of scope
 ## 2. Test Process
+   ### 2.1 Test Planning
+   ### 2.2 Test Analysis
+   ### 2.3 Test Design
+   ### 2.4 Test Implementation
+   ### 2.5 Test Execute
+   ### 2.6 Test Completion
+   ### 2.7 Test Monitoring and Control
 ## 3. Test Deliverables 
+   ### 3.1 Test plan
+   ### 3.2 Test conditions
+   ### 3.3 Test cases
+   ### 3.4 Daily test summary reports
+   ### 3.5 Traceability matrix
+   ### 3.6 Test case results
+   ### 3.7 Bugs report
+   ### 3.8 Test completion report
+
 
