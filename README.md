@@ -41,8 +41,12 @@
 ### 1.1 Project objective
    The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live application. 
    
-   Application under test [OrangeHRM:Admin Module](https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers)
+   [Application under test](https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers)
    
-   Application documentation (https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
+   [Application documentation](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
 )
-
+   
+   **Tools**: Jira, Postman, MySql
+</br>  
+   
+### 1.2 Functionalities in scope
