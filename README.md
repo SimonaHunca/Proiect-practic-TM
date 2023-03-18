@@ -50,3 +50,15 @@
 </br>  
    
 ### 1.2 Functionalities in scope
+   All features of **Admin** module which were defined in software requirement specification need to be: Functional testing, GUI testing, API testing.  
+  
+   > ** Screenshots from Jira with user story details
+
+### 1.3 Functionalities and tests out of 
+  - All OrangeHRM features except Admin module
+  - Non-functional testing like stress, performance is beyond scope of this project.
+  - No QA support for mobile application developed. Only web application will be tested.
+  - Automation testing is beyond scope.
+
+   
+   
