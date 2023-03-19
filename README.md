@@ -126,6 +126,6 @@
 
 ## 3.<ins> Test Deliverables<ins> 
    ### 3.1 Test plan
-     The test plan should be delivered to the Project Manager until the fifth week of the TM Courses of the ITF Company.
+   The test plan should be delivered to the Project Manager until the fifth week of the TM Courses of the ITF Company.
    
    
