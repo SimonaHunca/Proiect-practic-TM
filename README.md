@@ -36,7 +36,7 @@
 </br>
 </br>
    
-## 1.Introduction
+## 1. <ins>Introduction<ins>
    This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, ADMIN Module.
 ### 1.1 Project objective
    The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live application. 
@@ -59,6 +59,15 @@
   - Non-functional testing like stress, performance is beyond scope of this project.
   - No QA support for mobile application developed. Only web application will be tested.
   - Automation testing is beyond scope.
-
+## 2. <ins>Test Process<ins>
+  ### 2.1 Test Planning 
    
+#### Roles and responsabilities:
+| **Role** | **Name** |
+| :-------------: | :-------------:| 
+| Software Developer | Maria Marinescu | 
+| Product Owner | Alisa Rădoi |
+| Project Manager| Radu Pintilie |
+| QA Engineer|   Simona Hunca |
+| Senior QA Engineer | Rafael Popescu |
    
