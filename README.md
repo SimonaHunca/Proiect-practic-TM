@@ -21,7 +21,7 @@
    ### 2.2 Test Analysis
    ### 2.3 Test Design
    ### 2.4 Test Implementation
-   ### 2.5 Test Execute
+   ### 2.5 Test Execution
    ### 2.6 Test Completion
    ### 2.7 Test Monitoring and Control
 ## 3.<ins> Test Deliverables<ins> 
@@ -67,7 +67,7 @@
 | :-------------: | :-------------:| 
 | Software Developer | Maria Marinescu | 
 | Product Owner | Alisa Rădoi |
-| Project Manager| Radu Pintilie |
+| Project Manager| Gabriela Radulescu |
 | QA Engineer|   Simona Hunca |
 | Senior QA Engineer | Rafael Popescu |
    
@@ -89,10 +89,43 @@
    - unavalability of the test environment 
    - short deadline of Zephyr Squad and Jira tools
    
-   *** Product risks***:
+   ***Product risks***:
    - validation constraints on the fields might be to restrictive for the end user
    
 ### 2.2 Test Analysis
    - analyze business requirments to make sure that we have all information for creating the test condition
-   - write test conditions 
+   - write test conditions that will be tested out in test process
+> ** Screenshots with test conditions in section 3.2 from Jira.
+   
+### 2.3 Test Design
+   - functional test cases will be created in Zephyr Squad 
+   - GUI test cases will be created in Zephyr Squad
+   - API test cases will be created in Postman 
+   - the test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
+> ** Screenshots with test cases in section 3.3 from Jira.
+
+### 2.4 Test Implementation
+   Verify that the following elements are ready before the test execution phase: 
+   - test environment is up and running: [OrangeHRM Admin] (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) 
+   - access to the test environment is given: username Admin, pass: admin123
+   - cycle summary (*test cases colection from Jira) was created and the test cases were added to the cycle summary 
+   - Postman collections were created 
+   
+### 2.5 Test Execution
+   - test cases are executed on the created Cycle summary 
+   - bug reports were created based on the failed test cases. 
+   - API test cases were executed 
+   - full regression tests pack was executed 
+
+### 2.6 Test Completion
+   As the exit criteria were met and satisfied as mentioned in the 2.1 section, this feature is suggested to go live by the QA team. 
+   
+### 2.7 Test Monitoring and Control   
+   Generate periodic reports to check the project status: status for the test cases executed, status for the converge of the business requirements, etc 
+> ** Screenshots with Jira general reports ( every week, every two weeks, montly ). 
+
+## 3.<ins> Test Deliverables<ins> 
+   ### 3.1 Test plan
+     The test plan should be delivered to the Project Manager until the fifth week of the TM Courses of the ITF Company.
+   
    
