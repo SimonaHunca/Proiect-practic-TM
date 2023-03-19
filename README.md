@@ -71,3 +71,28 @@
 | QA Engineer|   Simona Hunca |
 | Senior QA Engineer | Rafael Popescu |
    
+#### Entry criteria :
+   - functional specification defined
+   - roles needed for the project are allocated 
+   - initial project risks were detected and mitigated
+#### Exit criteria : 
+   - all test cases have been executed
+   - the number of unresolved bugs is insignificant or have low priority
+   - all resolved bugs have been re-tested and closed by the QA team 
+   - deadline was reached
+   - no detected major risks remained un-mitigated 
+   
+#### Risks :
+   ***Project risks***:
+   - lack of experience of the QA team
+   - only one QA in the QA team
+   - unavalability of the test environment 
+   - short deadline of Zephyr Squad and Jira tools
+   
+   *** Product risks***:
+   - validation constraints on the fields might be to restrictive for the end user
+   
+### 2.2 Test Analysis
+   - analyze business requirments to make sure that we have all information for creating the test condition
+   - write test conditions 
+   
