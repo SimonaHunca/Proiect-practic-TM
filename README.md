@@ -37,7 +37,7 @@
 </br>
    
 ## 1. <ins>Introduction<ins>
-   This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, ADMIN Module, Submenu: USER MANAGEMENT, JOB and ORGANIZATION.
+   This test plan describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM browser application, ADMIN Module, Submenu: USER MANAGEMENT and JOB .
 ### 1.1 Project objective
    The scope of the final project for ITF Manual & Automation Testing Course is to use all gained knowledge through the course and apply them in practice using a live application. 
    
@@ -50,12 +50,12 @@
 </br>  
    
 ### 1.2 Functionalities in scope
-   All features of **Admin** ( Submenu:USER MANAGEMENT, JOB and ORGANIZATION) module which were defined in software requirement specification need to be: Functional testing, GUI testing, API testing.  
+   All features of **Admin** ( Submenu:USER MANAGEMENT and JOB ) module which were defined in software requirement specification need to be: Functional testing, GUI testing, API testing.  
   
    > ** Screenshots from Jira with user story details
 
 ### 1.3 Functionalities and tests out of 
-  - All OrangeHRM features except SUBMENU from Admin menu : USER MANAGEMENT, JOB and ORGANIZATION
+  - All OrangeHRM features except SUBMENU from Admin menu : USER MANAGEMENT and JOB 
   - Non-functional testing like stress, performance is beyond scope of this project.
   - No QA support for mobile application developed. Only web application will be tested.
   - Automation testing is beyond scope.
