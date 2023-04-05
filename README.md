@@ -102,7 +102,9 @@
    - GUI test cases will be created in Zephyr Squad
    - API test cases will be created in Postman 
    - the test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
-> ** Screenshots with test cases in section 3.3 from Jira.
+
+
+![Test conditions 1](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(2).png)
 
 ### 2.4 Test Implementation
    Verify that the following elements are ready before the test execution phase: 
