@@ -106,6 +106,19 @@
 
 ![Test conditions 1](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(2).png)
 
+![Test conditions 2](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(3).png)
+
+![Test conditions 3](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(4).png)
+
+![Test conditions 4](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(5).png)
+
+![Test conditions 5](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(6).png)
+
+![Test conditions 6](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(7).png)
+
+![Test conditions 7](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(8).png)
+
+
 ### 2.4 Test Implementation
    Verify that the following elements are ready before the test execution phase: 
    - test environment is up and running: [OrangeHRM Admin] (https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) 
