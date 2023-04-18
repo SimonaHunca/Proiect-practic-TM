@@ -170,31 +170,36 @@
    
    ### 3.2 Test conditions
 
- ![Test condition 1](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%201.png)
+ [Test condition 1](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%201.png)
  
- ![Test condition 2](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%2010.png)
+ [Test condition 2](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%2010.png)
  
- ![Test condition 3](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%202.png)
+ [Test condition 3](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%202.png)
  
- ![Test condition 4](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%203.png)
+ [Test condition 4](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%203.png)
  
- ![Test condition 5](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%204.png)
+ [Test condition 5](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%204.png)
  
- ![Test condition 6](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%205.png)
+ [Test condition 6](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%205.png)
  
- ![Test condition 7](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%206.png)
+ [Test condition 7](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%206.png)
  
- ![Test condition 8](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%207.png)
+ [Test condition 8](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%207.png)
  
- ![Test condition 9](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%208.png)
+ [Test condition 9](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%208.png)
  
- ![Test condition 10](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%209.png)
+ [Test condition 10](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%209.png)
  
    ### 3.3 Test cases
   > **screenshots from JIra 
    
    ### 3.4 Daily test summary report
    
+   
+ ![Daily report 18.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2018.04%20(2).png)
+ 
+ 
+ ![Daily report 18.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2018.04.png)
 
    
    
