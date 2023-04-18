@@ -201,7 +201,15 @@
  
  ![Daily report 18.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2018.04.png)
 
-   
+   ### 3.5 Traceability matrix
+> ** screenshots cu matricea generate in Jira 
+   ### 3.6 Test case results
+> ** screenshots/pdf  cu rezultatele test case-urilor exportate din Jira 
+   ### 3.7 Bugs report
+> ** screenshots/pdf cu defectele exportate din Jira 
+   ### 3.8 Test completion report
+> **screenshots cu raportul generat in Jira 
+
    
 
    
