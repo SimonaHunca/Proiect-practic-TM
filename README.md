@@ -94,7 +94,7 @@
    
    
 ### 2.2 Test Analysis
-   - analyze business requirments to make sure that we have all information for creating the test condition
+   - analyze business requirements to make sure that we have all information for creating the test condition
    - write test conditions that will be tested out in test process
    
    ***Test Conditions:***
@@ -168,7 +168,11 @@
    ### 3.1 Test plan
    The test plan should be delivered to the Project Manager until the fifth week of the TM Courses of the ITF Company.
    
+   ### 3.2 Test conditions
+> ** screenshots cu test conditions din Jira
+
    
-   Test case 1 [Test case User Management x](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/OSH-5%20(1).pdf)
+   
+
    
    
