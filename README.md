@@ -169,7 +169,28 @@
    The test plan should be delivered to the Project Manager until the fifth week of the TM Courses of the ITF Company.
    
    ### 3.2 Test conditions
-> ** screenshots cu test conditions din Jira
+
+ ![Test condition 1](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%201.png)
+ 
+ ![Test condition 2](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%2010.png)
+ 
+ ![Test condition 3](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%202.png)
+ 
+ ![Test condition 4](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%203.png)
+ 
+ ![Test condition 5](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%204.png)
+ 
+ ![Test condition 6](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%205.png)
+ 
+ ![Test condition 7](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%206.png)
+ 
+ ![Test condition 8](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%207.png)
+ 
+ ![Test condition 9](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%208.png)
+ 
+ ![Test condition 10](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%209.png)
+ 
+ 
 
    
    
