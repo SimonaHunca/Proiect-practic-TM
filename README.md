@@ -190,7 +190,11 @@
  
  ![Test condition 10](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20condition%209.png)
  
- 
+   ### 3.3 Test cases
+  > **screenshots from JIra 
+   
+   ### 3.4 Daily test summary report
+   
 
    
    
