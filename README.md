@@ -128,6 +128,11 @@
    30. Check that ESS Users has limited access to the system
    31. Check that user can delete one or multiples entries from the Work Shift Lists
    32. Verify that user can create work shifts for employees
+   33. Verify that the mandatory fields from Edit Pay Grade page are marked with a red star
+   34. Verify that user can upload an 1mb document on Job Specification field from Add Job Title page
+   35. Verify that on Add User page the dropdowns are available and with all the options 
+   36. Check that users cannot write numbers and special characters on Employee Name input field from Add User page
+   37. Check that user cannot fill with a negative number the Minimum and Maximum Salary field
    
 ### 2.3 Test Design
    - functional test cases will be created in Zephyr Squad 
