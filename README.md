@@ -95,7 +95,10 @@
    
 ### 2.2 Test Analysis
    - analyze business requirments to make sure that we have all information for creating the test condition
-   - write test conditions that will be tested out in test process:
+   - write test conditions that will be tested out in test process
+   
+   ***Test Conditions:***
+   
    1. Verify that all submenus in Admin Module are present
    2. Verify that Add User window has all the input fields and dropdowns available
    3. Verify that Job Menu has all the submenus available
@@ -139,21 +142,6 @@
    - GUI test cases will be created in Zephyr Squad
    - API test cases will be created in Postman 
    - the test design techniques used for generating test cases are: equivalence partitioning, boundary value analysis. 
-
-
-![Test conditions 1](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(2).png)
-
-![Test conditions 2](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(3).png)
-
-![Test conditions 3](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(4).png)
-
-![Test conditions 4](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(5).png)
-
-![Test conditions 5](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(6).png)
-
-![Test conditions 6](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(7).png)
-
-![Test conditions 7](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Screenshot%20(8).png)
 
 
 ### 2.4 Test Implementation
