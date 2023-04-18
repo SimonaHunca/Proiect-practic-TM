@@ -54,7 +54,7 @@
   
    > ** Screenshots from Jira with user story details
 
-### 1.3 Functionalities and tests out of 
+### 1.3 Functionalities and tests out of scope
   - All OrangeHRM features except SUBMENU from Admin menu : USER MANAGEMENT and JOB 
   - Non-functional testing like stress, performance is beyond scope of this project.
   - No QA support for mobile application developed. Only web application will be tested.
@@ -90,12 +90,44 @@
    - short deadline of Zephyr Squad and Jira tools
    
    ***Product risks***:
-   - validation constraints on the fields might be to restrictive for the end user
+   - software security breaches the realease of confidential employee information
+   
    
 ### 2.2 Test Analysis
    - analyze business requirments to make sure that we have all information for creating the test condition
-   - write test conditions that will be tested out in test process
-> ** Screenshots with test conditions in section 3.2 from Jira.
+   - write test conditions that will be tested out in test process:
+   1. Verify that all submenus in Admin Module are present
+   2.Verify that Add User window has all the input fields and dropdowns available
+   3.Verify that Job Menu has all the submenus available
+   4.Verify that all the fields in Add User page are marked as required fields
+   5.Verify that System User List looks like in the picture 1.3 from business requirements
+   6.Verify that user is not allowed to complete with special characters the field Name on Add pay Grades page
+   7.Verify that user is not allowed to complete the field Name from Add Job Category with number or special characters
+   8.Verify that user cannot upload an document bigger than 1mb on Job Specification field from Add Job Title page
+   9.Check that users cannot write more than 50 letters on Job Title input field from Add Job title page
+   10.Check if we have an info tip when we write more than 400 characters on the Note field and Job Description on the Add Job Title page
+   11.Verify if user can search in the dropdown Currency by typping the currency name
+   12.Verify that on Add Workshift page all the required fields are marked with a red star
+   13.Check that Admin User can add an Employment Status
+   14.Check that admin can delete one or multiples entries from the Employment Status window
+   15.Check that Admin can delete one or multiples entries from the Job Categories window
+   16.Checking that Admin can create a job category
+   17.Check that we can delete one or multiples entries from the Job Title window
+   18.Check that Admin user can create a Job title
+   19.Verify that the HR Admin can define a pay grade
+   20.Verify that only the HR Admin can define the Pay Grade
+   21.Check that user can delete one or multiples entries from the Pay Grade window
+   22.Verify that the HR Admin can define multiple currencies to an employee pay grade
+   23.Check that user can fill the Minimum Salary field with an amount bigger than in the Maximum Salary field on Add Currency page
+   24.Check that we can create with success an ESS Supervisor USER TYPE
+   25.Verify that we cannot create any type of User without previously creating the corresponding employee
+   26.Verify that the Admin User has full access to the system
+   27.Check that we can create with success an ESS Employee USER TYPE
+   28.Verify that ESS Supervisor has access to his personal information and to his subordinates personal information
+   29.Check that we can delete one or multiples entries from the System Users window
+   30.Check that ESS Users has limited access to the system
+   31.Check that user can delete one or multiples entries from the Work Shift Lists
+   32.Verify that user can create work shifts for employees
    
 ### 2.3 Test Design
    - functional test cases will be created in Zephyr Squad 
