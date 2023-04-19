@@ -223,7 +223,10 @@
 [Test Cases Results](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/OSH-5-combined.pdf)
 
    ### 3.7 Bugs report
-> ** screenshots/pdf cu defectele exportate din Jira 
+   
+[Bugs](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/OSH-59-combined_1.pdf)
+[Bugs report]()
+
    ### 3.8 Test completion report
 > **screenshots cu raportul generat in Jira 
 
