@@ -214,9 +214,14 @@
  
 
    ### 3.5 Traceability matrix
-> ** screenshots cu matricea generate in Jira 
+
+![Traceability matrix](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Forward%20Traceability_19_4_2023.xlsx)
+
+
    ### 3.6 Test case results
-> ** screenshots/pdf  cu rezultatele test case-urilor exportate din Jira 
+
+[Test Cases Results](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/OSH-5-combined.pdf)
+
    ### 3.7 Bugs report
 > ** screenshots/pdf cu defectele exportate din Jira 
    ### 3.8 Test completion report
