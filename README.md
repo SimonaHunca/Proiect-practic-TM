@@ -225,7 +225,8 @@
    ### 3.7 Bugs report
    
 [Bugs](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/OSH-59-combined_1.pdf)
-[Bugs report]()
+
+[Bugs report](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Forward%20Traceability_19_4_2023%20(1).xlsx)
 
    ### 3.8 Test completion report
 > **screenshots cu raportul generat in Jira 
