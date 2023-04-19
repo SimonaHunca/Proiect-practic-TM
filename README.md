@@ -52,7 +52,8 @@
 ### 1.2 Functionalities in scope
    All features of **Admin** ( Submenu:USER MANAGEMENT and JOB ) module which were defined in software requirement specification need to be: Functional testing, GUI testing, API testing.  
   
-![UserStory](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/User%20story%201.pdf)
+   
+   ![UserStory](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/User%20story%201.pdf)
 
 ### 1.3 Functionalities and tests out of scope
   - All OrangeHRM features except SUBMENU from Admin menu : USER MANAGEMENT and JOB 
@@ -204,8 +205,10 @@
  
  
  ![Daily report 18.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2018.04.png)
+   
  
  ![Daily report 19.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2019.04.2023.png)
+   
  
  ![Daily report 19.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2019.04.2023%20(2).png)
  
