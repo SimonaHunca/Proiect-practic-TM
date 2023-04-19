@@ -233,5 +233,17 @@
 ![Test completion report](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20execution%20report.png)
    
 
+   ### 3.9 Schedule 
+   
+   | Tasks  | Date | Executed by |
+   |---------|-------------|----------|
+   | Run GUI Testing for User management module  | 05.04.2023 | Simona Hunca |
+   | Run GUI Testing for Job module | 08.04.2023 | Simona Hunca|
+   | Run Functional testing for Job Titles and Job Category submenu | 12.04.2023 | Simona Hunca |
+   | Run Functional testing for Employment Status and Pay Grade submenu | 18.04.2023 | Simona Hunca |
+   | Export daily report | 18.04.2023 | Simona Hunca |
+   | Run Functional testing for User Management and Work Shifts | 19.04.2023 | Simona Hunca |
+   | Export traceability and general reports | 19.04.20.23 | Simona Hunca |
+   | Handover the project | 08.05.2023 | Simona Hunca |
    
    
