@@ -201,6 +201,11 @@
  
  
  ![Daily report 18.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2018.04.png)
+ 
+ ![Daily report 19.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2019.04.2023.png)
+ 
+ ![Daily report 19.04.2023](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2019.04.2023%20(2).png)
+ 
 
    ### 3.5 Traceability matrix
 > ** screenshots cu matricea generate in Jira 
