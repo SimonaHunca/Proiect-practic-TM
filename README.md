@@ -229,8 +229,8 @@
 [Bugs report](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Forward%20Traceability_19_4_2023%20(1).xlsx)
 
    ### 3.8 Test completion report
-> **screenshots cu raportul generat in Jira 
 
+![Test completion report](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/test%20execution%20report.png)
    
 
    
