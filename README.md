@@ -162,7 +162,10 @@
    
 ### 2.7 Test Monitoring and Control   
    Generate periodic reports to check the project status: status for the test cases executed, status for the converge of the business requirements, etc 
-> ** Screenshots with Jira general reports ( every week, every two weeks, montly ). 
+
+[Two weeks report 1](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2019.04.2023%20(2).png)
+
+[Two weeks report 2](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/daily%20report%2019.04.2023.png)
 
 ## 3.<ins> Test Deliverables<ins> 
    ### 3.1 Test plan
