@@ -214,7 +214,7 @@
 
    ### 3.5 Traceability matrix
 
-![Traceability matrix](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Forward%20Traceability_19_4_2023.xlsx)
+[Traceability matrix](https://github.com/SimonaHunca/Proiect-practic-TM/blob/main/Forward%20Traceability_19_4_2023.xlsx)
 
 
    ### 3.6 Test case results
